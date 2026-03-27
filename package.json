@@ -1,0 +1,14 @@
+{
+  "name": "frame-analytics-sdk",
+  "version": "0.1.0",
+  "description": "Open-source analytics for tracking Frame interactions and clicks",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
